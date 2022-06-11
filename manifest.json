@@ -1,6 +1,7 @@
 {
     "files": {
-        "index.js": "9cc9f5bac396f955447f4fc6bd619e5f8d54fb4161e2cc3806b7e34522980b47"
+        "index.js": "9cc9f5bac396f955447f4fc6bd619e5f8d54fb4161e2cc3806b7e34522980b47",
+        "module.json": "d9a240eb835c358ecdc5b454b930907338d80594a3a8388fd295546a27901ac7"
     },
     "defs": {
         "S_EACH_SKILL_RESULT": "gpekd",

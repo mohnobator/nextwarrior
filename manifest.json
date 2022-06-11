@@ -1,0 +1,11 @@
+{
+    "files": {
+        "index.js": "d12a10b4a55eb1c2c395b1a2c2fcbe043f137e7a405090519ad95520cf6b8b29",
+        "module.json": "315ca2fae440fe8c075ca9787a91a88f94898ed65d842f5358f095f5761963b9"
+    },
+    "defs": {
+        "S_EACH_SKILL_RESULT": "gpekd",
+        "S_LEARN_EP_PERK": "qfeum",
+        "S_SPAWN_NPC": "tpumi"
+    }
+}

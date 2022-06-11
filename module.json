@@ -5,7 +5,7 @@
     "description": "Script for warrior. Best for dstance. DO NOT USE WITH SP or NGSP",
     "version": "1.0",
     "options": {
-        "niceName": "<font color='#FFC0CB'> NextWarrior </font>",
+        "niceName": "<font color='#FFC0CB'> NextWarrior </font>"
     },
     "dependencies": {
         "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json"

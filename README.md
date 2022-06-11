@@ -7,6 +7,7 @@
 - Usage at your own risk
 - Whole config of settings
 - You can install robotjs for extra futures
+- https://github.com/ketchdrown/robotjs
 - More scripts for other classes coming soon...
 
 <b> Changes: </b>
